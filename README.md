@@ -3,7 +3,7 @@
 🎯 Focus: Multi-omics analysis, RNA Biology, Systems Biology, Functional Genomics & Epigenetics, Ml/AI
 
 ## 🚀 Published Projects  
-🔹 [Small RNA Prediction Tool](http://posif.ibab.ac.in/) doi: 10.1177/11779322241263674
+🔹 [Small RNA Prediction Tool](http://posif.ibab.ac.in/) doi: [10.1177/11779322241263674](Maity, U., Aggarwal, R., Balasubramanian, R., Venkatraman, D. L., & R Hegde, S. (2024). Devising Isolation Forest-Based Method to Investigate the sRNAome of Mycobacterium tuberculosis Using sRNA-seq Data. Bioinformatics and biology insights, 18, 11779322241263674. https://doi.org/10.1177/11779322241263674)
 
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Upasana%20Maity-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/upasana-maity-8a6573202)  
